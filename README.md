@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/877923668385206312/883595844299935794/1624961859544.jpg" width="400px">
+    <img src="[https://media.discordapp.net/attachments/877923668385206312/883595844299935794/1624961859544.jpg](https://images-ext-1.discordapp.net/external/nY7p3iu5wkAUoiTOftyYUz4XAd50c58bHM3e7TstN-w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1004776005736595556/c2a0f2d6a8213458949ec2700798453a.png)" width="400px">
 </div>
 <div align="center">
 <h1>Parkour Universe <hr> Discord Rules</h1>
